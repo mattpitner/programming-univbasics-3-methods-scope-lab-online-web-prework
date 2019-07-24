@@ -13,6 +13,6 @@ def link
 end
 
 any_phrase(phrase)
-phrase = "Hello there"
-puts phrase
+  phrase = "Hello there"
+  puts phrase
 end
