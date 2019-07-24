@@ -13,5 +13,4 @@ def link
 end
 
 any_phrase()
-puts phrase
 end
